@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jmocana2/curso-javascript#readme",
   "devDependencies": {
+    "gulp": "^3.9.1",
     "gulp-server-livereload": "^1.9.2"
   }
 }
