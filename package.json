@@ -1,0 +1,23 @@
+{
+  "name": "curso-javascript",
+  "version": "1.0.0",
+  "description": "Codigos de prueba del curso de código facilito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmocana2/curso-javascript.git"
+  },
+  "author": "jmocana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmocana2/curso-javascript/issues"
+  },
+  "homepage": "https://github.com/jmocana2/curso-javascript#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-server-livereload": "^1.9.2"
+  }
+}
